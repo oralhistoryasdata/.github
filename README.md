@@ -6,9 +6,12 @@ Oral History as Data (OHD) provides a static web framework for users to publish 
 
 This project is currently in development. When finished, the project will feature: 
 
-- a demo site (Model Of)
-- a documentation site (Instructions)
-- a template site (Model For)
+- [a demo site (Model Of)](https://oralhistoryasdata.github.io/)
+  - This will show you what a more finished site looks like. 
+- [Documentation to get you started](https://oralhistoryasdata.github.io/about.html#documentation)
+  - More fully developed documentation for this project is being developed, but there are several places linked here to get you started.
+- [a template site (Model For)](https://github.com/oralhistoryasdata/oralhistoryasdata.github.io)
+  - To start your own project, you'd go here and click "Use This Template"
 
 ### About Oral History as Data
 
