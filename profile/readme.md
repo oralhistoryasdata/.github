@@ -2,7 +2,7 @@
 
 This is the GitHub space for the Oral History as Data Project. 
 
-Oral History as Data (OHD) provides a static web framework for users to publish and analyze coded oral history and qualitative interviews on the web. You can view the tool in action via the demo site below, or get started on your own site by using our documentation and copying our template repository (also linked below. 
+Oral History as Data (OHD) provides a static web framework for users to publish and analyze coded oral history and qualitative interviews on the web. You can view the tool in action via the demo site below, or get started on your own site by using our documentation and copying our template repository (also linked below). 
 
 - [a demo site (Model Of)](https://oralhistoryasdata.github.io/)
   - This will show you what a more finished site looks like. 
